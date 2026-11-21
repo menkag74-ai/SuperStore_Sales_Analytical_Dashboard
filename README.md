@@ -209,5 +209,6 @@ SuperStore_Sales_Analytical_Dashboard/
 3. Use the top navigation buttons and slicers to explore each page
 
 ## 👤 Author
-**Your Name**
-🔗 [LinkedIn](your-linkedin-link) | 📧 your-email@example.com | 💻 [GitHub](https://github.com/menkag74-ai)
+**Menka Gupta**
+🔗 [LinkedIn](https://www.linkedin.com/in/menka-gupta-703486188) | 📧 menkag74@gmail.com | 💻 [GitHub](https://github.com/menkag74-ai)
+
